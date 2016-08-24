@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<HTML><HEAD><TITLE>PHP</TITLE><HEAD>
+<BODY>
+<TABLE>
+<?
+for($i=0;$i<15;$i++){
+print'
+<TR>
+<TD>Daten1</TD>
+<TD>Daten2</TD>
+<TD>Daten3</TD>
+</TR>';
+?>
+</TABLE>
+</BODY>
+</HTML>
