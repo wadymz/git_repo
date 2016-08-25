@@ -1,1 +1,2 @@
-print("good buy!")
+print("good by")
+print("good evening")
